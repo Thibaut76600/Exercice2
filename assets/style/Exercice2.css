@@ -1,0 +1,99 @@
+.bold {
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: lightgreen;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#divAffiche {
+    text-align: center;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+#img {
+    background-image: url(../img/affichejoker.JPG);
+    height: 100vh;
+}
+
+#margin {
+    margin: 10px;
+}
+
+#rectangle {
+    height: 20px;
+    width: 80%;
+    background-color: green;
+    float: left;
+}
+
+#rectangle2 {
+    height: 20px;
+    width: 20%;
+    background-color: blue;
+    float: left;
+}
+
+#rectangle3 {
+    height: 80px;
+    width: 20%;
+    background-color: red;
+    float: left;
+}
+
+#rectangle4 {
+    height: 40px;
+    width: 40%;
+    background-color: orange;
+    float: left;
+}
+
+#rectangle5 {
+    height: 40px;
+    width: 40%;
+    background-color: grey;
+    float: left;
+}
+
+#rectangle6 {
+    height: 40px;
+    width: 26.6%;
+    background-color: lightsalmon;
+    float: left;
+}
+
+#rectangle7 {
+    height: 40px;
+    width: 26.6%;
+    background-color: greenyellow;
+    float: left;
+}
+
+#rectangle8 {
+    height: 40px;
+    width: 26.6%;
+    background-color: goldenrod;
+    float: left;
+}
+
+#rectangle9 {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    float: left;
+}
